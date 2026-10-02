@@ -100,6 +100,13 @@ const SEASON_SPONSORS = [
     logo: "assets/logos/super-butcher-southport.jpg",
     cardBg: "white",
   },
+     {
+    name: "Logan Village Services Club",
+    tier: "supporter",
+    link: "https://www.facebook.com/LVServicesClub",
+    logo: "assets/logos/lvsc.jpg",
+    cardBg: "white",
+  },
   {
     name: "Cold Rock Southport",
     tier: "supporter",
