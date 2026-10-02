@@ -100,13 +100,6 @@ const SEASON_SPONSORS = [
     logo: "assets/logos/super-butcher-southport.jpg",
     cardBg: "white",
   },
-     {
-    name: "Logan Village Services Club",
-    tier: "supporter",
-    link: "https://www.facebook.com/LVServicesClub",
-    logo: "assets/logos/lvsc.png",
-    cardBg: "white",
-  },
   {
     name: "Cold Rock Southport",
     tier: "supporter",
@@ -140,6 +133,13 @@ const SEASON_SPONSORS = [
     tier: "supporter",
     link: "https://www.instagram.com/charmingjewelspolina/",
     logo: "assets/logos/charming-jewels-polina.jpg",
+    cardBg: "white",
+  },
+  {
+    name: "Logan Village Services Club",
+    tier: "supporter",
+    link: "https://www.facebook.com/LVServicesClub",
+    logo: "assets/logos/lvsc.png",
     cardBg: "white",
   },
 ];
