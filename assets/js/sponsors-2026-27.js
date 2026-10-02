@@ -104,7 +104,7 @@ const SEASON_SPONSORS = [
     name: "Logan Village Services Club",
     tier: "supporter",
     link: "https://www.facebook.com/LVServicesClub",
-    logo: "assets/logos/lvsc.jpg",
+    logo: "assets/logos/lvsc.png",
     cardBg: "white",
   },
   {
