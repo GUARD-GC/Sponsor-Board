@@ -36,6 +36,13 @@ const SEASON_SPONSORS = [
     logo: "assets/logos/nlp-electrics.jpg",
     cardBg: "white",
   },
+     {
+    name: "Solidworks",
+    tier: "diamond",
+    link: "https://www.solidworks.com/product/students/solidworks-sponsorship-student-teams",
+    logo: "assets/logos/solidworks.png",
+    cardBg: "white",
+  },
 
   // --- Gold ---
   {
